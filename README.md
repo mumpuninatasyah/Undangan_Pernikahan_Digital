@@ -1,5 +1,4 @@
-# Undangan_Pernikahan_Digital
-  # Undangan Pernikahan Digital: Himmel & Frieren
+# Undangan Pernikahan DigitaL Himmel & Frieren
 
 Undangan pernikahan digital berbasis web dengan tema bunga forget-me-not, dibuat sebagai tugas kuliah menggunakan HTML, CSS, Bootstrap, dan JavaScript.
 
